@@ -1,0 +1,31 @@
+_repo: Strong-as-Death_4777
+_version: 0.0.1
+alternative_title: Fort comme la mort. English
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2006-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4777'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Painters -- France -- Fiction'
+- !lcsh 'Art -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Strong as Death
+url: http://www.gutenberg.org/ebooks/4777
